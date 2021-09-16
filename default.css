@@ -296,9 +296,13 @@ h6 {
 }
 .read-more{
   float:left;
+  color:var(--buttonColor);
+  font-weight: bold;
 }
 .view-site{
   float:right;
+  color:var(--buttonColor);
+  font-weight:bold;
 }
 #submit-btn{
   margin-top:10px;
